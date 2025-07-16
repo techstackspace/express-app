@@ -1,31 +1,69 @@
 # Resources
 
-Below are the [resources for this tutorial](https://arc.net/folder/2ED7F206-2BA4-48A3-86A6-5405AA84E0A3):
+## Episode One – macOS Setup
 
-* **[Dev.to Article](https://dev.to/bello/setting-up-your-macos-dev-environment-for-nodejs-express-the-right-way-27l0):** A step-by-step guide for setting up your macOS development environment using Node.js, Express, and essential tools.
+**[Resources folder](https://arc.net/folder/2ED7F206-2BA4-48A3-86A6-5405AA84E0A3)**
 
-* **[YouTube Video](https://www.youtube.com/watch?v=Ox20Lxu6qnI):** A visual walkthrough demonstrating the entire setup process, perfect for learners who prefer video content.
+* **[Dev.to Article](https://dev.to/bello/setting-up-your-macos-dev-environment-for-nodejs-express-the-right-way-27l0):** A step-by-step guide to setting up your macOS environment with Node.js, Express, and essential tools.
+* **[YouTube Video](https://www.youtube.com/watch?v=Ox20Lxu6qnI):** A complete walkthrough showing the installation and configuration process visually.
+* **[Visual Studio Code](https://code.visualstudio.com/):** A versatile, feature-rich code editor with built-in terminal and Git support for Node/Express development.
+* **[Homebrew](https://brew.sh/):** The go-to package manager on macOS (and Linux) for installing CLI tools and applications.
+* **[Arc Browser](https://arc.net/):** A modern browser focused on productivity, offering innovative features like spaces, notes, and a streamlined UI.
+* **[Git](https://git-scm.com/):** The distributed version control system essential for tracking changes and collaborating.
+* **[Biome.js](https://biomejs.dev/):** A unified tool performing linting, formatting, and type-checking for JS/TS projects.
+* **[MongoDB Community Server](https://www.mongodb.com/try/download/community):** The local development database (includes MongoDB, Compass, CLI tools).
+* **[MongoDB Kubernetes Operator](https://www.mongodb.com/try/download/community-kubernetes-operator):** Ideal for containerized, advanced MongoDB deployments.
+* **[MongoDB Shell (mongosh)](https://www.mongodb.com/docs/mongodb-shell/):** The modern CLI for interacting with MongoDB databases.
+* **[Express Starter Repo](https://github.com/techstackspace/express-projects):** A collection of Node.js + Express template projects to jumpstart your backend.
+* **[Node.js](https://nodejs.org/en):** The JavaScript runtime for server-side development with Express.
+* **[NVM (Node Version Manager)](https://github.com/nvm-sh/nvm):** Tool for installing and switching between multiple Node.js versions.
+* **[curl](https://curl.se/docs/):** CLI utility for network requests—commonly used to install scripts or test APIs.
 
-* **[Visual Studio Code](https://code.visualstudio.com/):** A powerful code editor from Microsoft, ideal for Node.js and Express development with built-in terminal, Git support, and extensions.
+---
 
-* **[Homebrew](https://brew.sh/):** The recommended package manager for macOS (also available for Linux) to easily install and manage CLI tools and apps.
+## Episode Two – Windows Setup
 
-* **[Arc Browser](https://arc.net/):** A modern and innovative browser designed for productivity, featuring spaces, notes, and a streamlined interface.
+**[Resources folder](https://arc.net/folder/E68FF896-B0A4-4188-AAA2-A51CCB06A4D1)**
 
-* **[Git](https://git-scm.com/):** The essential distributed version control system used to manage and collaborate on codebases efficiently.
+* **[Dev.to Article](https://dev.to/bello/setting-up-your-windows-dev-environment-for-nodejs-express-the-right-way-2jod):** A step-by-step guide to setting up your Windows environment with Node.js, Express, and essential tools.
+* **[YouTube Video](https://youtu.be/ZpHsRDOEgIw):** A complete walkthrough showing the installation and configuration process visually.
+* **[Visual Studio Code](https://code.visualstudio.com/):** Same versatile editor for Windows development with Git, debugging, and terminal.
+* **[Chocolatey](https://chocolatey.org/):** The leading Windows package manager for installing apps via `choco`.
+* **[Git](https://git-scm.com/):** Version control system available across all platforms.
+* **[GitHub CLI (gh)](https://cli.github.com/):** Command-line interface to manage GitHub workflow directly from your terminal.
+* **[Bun](https://bun.com/):** A fast all-in-one JS/TS runtime with built‑in bundler, test runner, and npm‑compatible package manager .
+* **[NVM (Node Version Manager)](https://github.com/nvm-sh/nvm):** Multi-version Node.js installer—useful even on Windows via tools like `nvm-windows`.
+* **[MongoDB Community Server](https://www.mongodb.com/try/download/community):** Local MongoDB installation including shell and Compass.
+* **[Postman](https://www.postman.com/):** Robust API development platform with support for collections, mock servers, testing, and automation.
 
-* **[Biome.js](https://biomejs.dev/):** A fast, modern tool that combines linting, formatting, and type-checking for JavaScript and TypeScript projects.
+---
 
-**[MongoDB Community Server Download](https://www.mongodb.com/try/download/community):** The official MongoDB server distribution for local development, available for macOS, Windows, and Linux. It includes MongoDB, Compass, and other tools in one installer.
+## Feedback & Suggestions
 
-* **[MongoDB Kubernetes Operator](https://www.mongodb.com/try/download/community-kubernetes-operator):** Useful for advanced deployment of MongoDB clusters in containerized environments like Kubernetes.
+Your feedback is incredibly valuable and helps improve these resources for the entire community.
 
-* **[MongoDB Shell (mongosh)](https://www.mongodb.com/docs/mongodb-shell/):** The official modern shell for MongoDB, offering a rich CLI experience for interacting with MongoDB databases.
+Whether you've followed a tutorial, read the documentation, watched a video, or used a script—I'd love to hear your thoughts!
 
-* **[Express Project Starter Repo](https://github.com/techstackspace/express-projects):** A curated set of starter templates for Node.js + Express applications — great for kickstarting backend projects.
+### What you can share:
 
-* **[Node.js](https://nodejs.org/en):** The runtime environment for running JavaScript outside the browser — essential for server-side development with Express.
+* What worked well for you?
+* What was unclear or confusing?
+* Suggestions for improvement or new topics?
+* Bugs or outdated instructions?
 
-* **[NVM (Node Version Manager)](https://github.com/nvm-sh/nvm):** A CLI tool to install and manage multiple Node.js versions seamlessly on the same machine.
+### Submit your feedback here:
 
-* **[curl](https://curl.se/docs/):** A powerful command-line tool for making network requests — often used to install scripts or test APIs.
+[Submit Feedback Form](https://techstackspace.com/feedback)
+
+Your input helps shape better content for developers like you. Thank you!
+
+---
+
+## Social Media
+
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-8a3ab9?style=social&logo=instagram)](https://instagram.com/techstackmedia)
+- [![Threads](https://img.shields.io/badge/Threads-Profile-8a3ab9?style=social&logo=threads)](https://www.threads.net/@techstackmedia)
+- [![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=social&logo=facebook)](https://www.facebook.com/techstackmedia)
+- [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?style=social&logo=tiktok)](https://www.tiktok.com/@techstackmedia)
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=social&logo=youtube)](https://www.youtube.com/@techstackmedia)
+- [![X](https://img.shields.io/badge/twitter-Profile-000000?style=social&logo=x)](https://x.com/techstackmedia)
