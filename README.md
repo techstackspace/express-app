@@ -16,7 +16,7 @@ Below are the [resources for this tutorial](https://arc.net/folder/2ED7F206-2BA4
 
 * **[Biome.js](https://biomejs.dev/):** A fast, modern tool that combines linting, formatting, and type-checking for JavaScript and TypeScript projects.
 
-**[MongoDB Community Server Download](https://www.mongodb.com/try/download/community):** The official MongoDB server distribution for local development, available for macOS, Windows, and Linux. It includes MongoDB, Compass, and other tools in one installer.
+* **[MongoDB Community Server Download](https://www.mongodb.com/try/download/community):** The official MongoDB server distribution for local development, available for macOS, Windows, and Linux. It includes MongoDB, Compass, and other tools in one installer.
 
 * **[MongoDB Kubernetes Operator](https://www.mongodb.com/try/download/community-kubernetes-operator):** Useful for advanced deployment of MongoDB clusters in containerized environments like Kubernetes.
 
